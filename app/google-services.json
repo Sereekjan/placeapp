@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713160289719",
+    "firebase_url": "https://placeapp-55298.firebaseio.com",
+    "project_id": "placeapp-55298",
+    "storage_bucket": "placeapp-55298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713160289719:android:003a23752d241ec0734c32",
+        "android_client_info": {
+          "package_name": "kz.ikar.cities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713160289719-jsernomni3jm8ad0nphqnp77lg1uhkhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmrrXaclk_NY0ZMt4ZdNTvOI1Nv0iSzN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713160289719-jsernomni3jm8ad0nphqnp77lg1uhkhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
